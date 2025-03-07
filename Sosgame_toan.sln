@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sosgame_toan", "Sosgame_toan.pyproj", "{0E75B7E5-84FA-40C3-9C14-D2C833ABDCFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E75B7E5-84FA-40C3-9C14-D2C833ABDCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E75B7E5-84FA-40C3-9C14-D2C833ABDCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9224E30C-B2FE-4084-9F1F-1B3BC300D5E3}
+	EndGlobalSection
+EndGlobal
